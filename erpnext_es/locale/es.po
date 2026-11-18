@@ -39085,3 +39085,173 @@ msgstr "{} pendiente"
 msgid "{} To Bill"
 msgstr "{} por facturar"
 
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Accounting Onboarding"
+msgstr "Primeros pasos en contabilidad"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Invite Users"
+msgstr "Invitar usuarios"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Learn Asset"
+msgstr "Aprende sobre activos"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Learn Subcontracting"
+msgstr "Aprende sobre subcontratación"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Manufacturing Setup"
+msgstr "Configuración de manufactura"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Onboarding for Stock!"
+msgstr "¡Primeros pasos en inventario!"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Projects Setup"
+msgstr "Configuración de proyectos"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Review Accounts Settings"
+msgstr "Revisa la configuración de contabilidad"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Review Buying Settings"
+msgstr "Revisa la configuración de compras"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Review Manufacturing Settings"
+msgstr "Revisa la configuración de manufactura"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Review Selling Settings"
+msgstr "Revisa la configuración de ventas"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Review System Settings"
+msgstr "Revisa la configuración del sistema"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Selling Setup"
+msgstr "Configuración de ventas"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Setup Company"
+msgstr "Configura tu empresa"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Setup Email Account"
+msgstr "Configura la cuenta de correo"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Setup Organization"
+msgstr "Configura tu organización"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Setup Role Permissions"
+msgstr "Configura los permisos por rol"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Setup Sales Taxes"
+msgstr "Configura los impuestos de venta"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Setup Sales taxes"
+msgstr "Configura los impuestos de venta"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Setup Warehouse"
+msgstr "Configura un almacén"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Stock Setup"
+msgstr "Configuración de inventario"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "Subcontracting Setup"
+msgstr "Configuración de subcontratación"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "View Balance Sheet"
+msgstr "Ver el balance general"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "View Project Summary"
+msgstr "Ver el resumen del proyecto"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "View Purchase Order Analysis"
+msgstr "Ver el análisis de órdenes de compra"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "View Sales Order Analysis"
+msgstr "Ver el análisis de órdenes de venta"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "View Stock Balance Report"
+msgstr "Ver el reporte de saldo de inventario"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "View Work Order Summary"
+msgstr "Ver el resumen de órdenes de trabajo"
+
+#. ERPNext: ""
+#: erpnext onboarding (Module Onboarding / Onboarding Step)
+msgid "View Work Order Summary Report"
+msgstr "Ver el reporte de resumen de órdenes de trabajo"
+
+#. ERPNext: ""
+#: erpnext/selling/workspace/selling/selling.json
+msgid "Total Sales Amount"
+msgstr "Total de ventas"
+
+#. ERPNext: "\"Embudo\" de ventas"
+#: erpnext/selling/workspace/selling/selling.json
+msgid "Sales Funnel"
+msgstr "Embudo de ventas"
+
+#. ERPNext: "Informes & Datos Maestros"
+#: erpnext/selling/workspace/selling/selling.json
+msgid "Reports & Masters"
+msgstr "Reportes y datos maestros"
+
+#. ERPNext: "<span class=\"h4\"><b>Informes &amp; Datos Maestros</b></span>"
+#: erpnext workspace headings
+msgid "<span class=\"h4\"><b>Reports &amp; Masters</b></span>"
+msgstr "<span class=\"h4\"><b>Reportes y datos maestros</b></span>"
+
+#. ERPNext: ""
+#: erpnext workspace headings
+msgid "<span class=\"h4\"><b>Subcontracting Inward and Outward</b></span>"
+msgstr "<span class=\"h4\"><b>Subcontratación recibida y enviada</b></span>"
