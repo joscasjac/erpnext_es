@@ -3,7 +3,7 @@
 Corrected Latin American Spanish for [ERPNext](https://github.com/frappe/erpnext), shipped as its own Frappe app. ERPNext's code and its own `es.po` are not changed.
 
 - **Built from ERPNext v15 and v16** (`version-15` and `version-16` branches, 13,015 strings between them).
-- **`erpnext_es/locale/es.po` holds 7,628 entries:** 5,808 corrections to ERPNext's Spanish and 1,820 strings ERPNext had left in English. Strings ERPNext already translates well are left to it.
+- **`erpnext_es/locale/es.po` holds 9,417 entries** (1,755 added on 2026-11-18 for strings ERPNext, Frappe and HRMS v16 still showed in English; references `erpnext` or `frappe / hrms`). Earlier, 7,628 entries: 5,808 corrections to ERPNext's Spanish and 1,820 strings ERPNext had left in English. Strings ERPNext already translates well are left to it.
 - **Every entry records what ERPNext had** (`#. ERPNext: "..."`), so a reviewer can compare and `scripts/audit.py` can tell when upstream changes.
 - **Works for `es` and every `es-*` dialect** (es-GT, es-MX…). Frappe loads the base language first and puts the dialect on top.
 
@@ -99,3 +99,12 @@ Corrections are welcome. Edit `erpnext_es/locale/es.po` following [GLOSSARY.md](
 ## License
 
 [GPL-3.0](license.txt), the same license as ERPNext, whose Spanish catalog this work builds on. Anyone may use, copy, change and redistribute it for free, including in commercial deployments; redistributed changes must stay under GPL-3.0.
+
+## Install
+
+After `bench --site <site> install-app erpnext_es`, compile the catalog (Frappe v16 reads `.mo` files, and installing does not build them):
+
+```bash
+bench compile-po-to-mo --app erpnext_es --force
+bench --site <site> clear-cache
+```
