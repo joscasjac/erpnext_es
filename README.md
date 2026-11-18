@@ -91,3 +91,11 @@ No bench needed. They check that every entry is translated, keeps its placeholde
 - Some ERPNext messages are built from pieces in code ("{0} {1} created"), so word order and gender can still read awkwardly in a few places.
 - Strings that ERPNext does not mark for translation stay in English. That has to be fixed in ERPNext itself.
 - HRMS, Frappe CRM, Helpdesk and other apps are not covered, except where they share an English string with ERPNext.
+
+## Contributing
+
+Corrections are welcome. Edit `erpnext_es/locale/es.po` following [GLOSSARY.md](GLOSSARY.md), keep the `#. ERPNext:` line, run the tests and open a pull request.
+
+## License
+
+[GPL-3.0](license.txt), the same license as ERPNext, whose Spanish catalog this work builds on. Anyone may use, copy, change and redistribute it for free, including in commercial deployments; redistributed changes must stay under GPL-3.0.
